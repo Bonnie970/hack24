@@ -1,1 +1,77 @@
-[{"content_id": 1260036017, "fragments": [{"start_time": "00:21:48", "end_time": "00:23:40", "loc_x1": 0.3625, "loc_y1": 0.225, "loc_x2": 0.765625, "loc_y2": 0.8805555555555555, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00000169_1.png"}, {"start_time": "00:21:48", "end_time": "00:23:40", "loc_x1": 0.275, "loc_y1": 0.175, "loc_x2": 0.6296875, "loc_y2": 0.8777777777777778, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00001049_0.png"}, {"start_time": "00:23:40", "end_time": "00:23:55", "loc_x1": 0.2578125, "loc_y1": 0.125, "loc_x2": 0.8640625, "loc_y2": 0.7722222222222223, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00002745_0.png"}, {"start_time": "00:23:56", "end_time": "00:25:59", "loc_x1": 0.040625, "loc_y1": 0.12222222222222222, "loc_x2": 0.6390625, "loc_y2": 0.8777777777777778, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005417_2.png"}, {"start_time": "00:23:56", "end_time": "00:25:59", "loc_x1": 0.1109375, "loc_y1": 0.14722222222222223, "loc_x2": 0.453125, "loc_y2": 0.875, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005815_2.png"}, {"start_time": "00:26:00", "end_time": "00:27:07", "loc_x1": 0.4265625, "loc_y1": 0.12222222222222222, "loc_x2": 0.9984375, "loc_y2": 0.8833333333333333, "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00007239_1.png"}]}]
+[
+    {
+        "content_id": 1260036017,
+        "fragments": [
+            {
+                "start_time": "00:21:48",
+                "end_time": "00:23:40",
+                "loc_x1": 0.3625,
+                "loc_y1": 0.225,
+                "loc_x2": 0.765625,
+                "loc_y2": 0.8805555555555555,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00000169_1.png",
+                "product_link": "https://www.amazon.com.au/LRT-Womens-Jacket-Embroidered-Floral/dp/B07VPSC4KG"
+            },
+            {
+                "start_time": "00:21:48",
+                "end_time": "00:23:40",
+                "loc_x1": 0.275,
+                "loc_y1": 0.175,
+                "loc_x2": 0.6296875,
+                "loc_y2": 0.8777777777777778,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00001049_0.png",
+                "product_link": "https://www.spirit-of-om.de/en/t-shirt-men-om-bordeaux/"
+            },
+            {
+                "start_time": "00:23:40",
+                "end_time": "00:23:55",
+                "loc_x1": 0.2578125,
+                "loc_y1": 0.125,
+                "loc_x2": 0.8640625,
+                "loc_y2": 0.7722222222222223,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00002745_0.png",
+                "product_link": "https://www.amazon.com/Prescription-Clear-Glasses-Eyeglasses-Bright/dp/B08DLT5CY8/ref=sr_1_2_sspa?crid=1HJQJUZO8T208&dib=eyJ2IjoiMSJ9.UUQ_sqPyPjrmEbgOD42LH6IaWpHJqLyeQ6m50MlYs9VpDAJZ7-9ZYmz2R2jDBgJ4y4OG23vAkZfak7Vb9drJNUrPJb91LBcA3DhfzWNlKqjgKQyKfIeIhswW8DJQ3sn58HNb7xhN0UB2oSKNBAP0dM6gkyjwRK2-h5hF1DQrnAg3apfT1J_8imrskXvMXFZrciyykK8rvQUVbo4AEnHWdcHmM178LkIkJYD0fmGIuiz-qxyiHGoBL3MipCCksmv1vW8A5sgsTPOB_oC29etqLBLGFXlQ2SmLLTtQfRLbLkU.i-BKKPWWHRbdiePqkyxVYucUG7Ve9nEmSZV4GAGL7l0&dib_tag=se&keywords=glasses%2Bblack%2Bcircular&qid=1721467357&sprefix=glasses%2Bblack%2Bcircular%2Caps%2C407&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+            },
+            {
+                "start_time": "00:23:56",
+                "end_time": "00:25:59",
+                "loc_x1": 0.040625,
+                "loc_y1": 0.12222222222222222,
+                "loc_x2": 0.6390625,
+                "loc_y2": 0.8777777777777778,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005417_2.png",
+                "product_link": "https://www.flipkart.com/rare-rabbit-men-solid-casual-blue-shirt/p/itm4487d56b17a90?pid=SHTGUHN9E5HZQSMF&lid=LSTSHTGUHN9E5HZQSMF69WCBM&marketplace=FLIPKART&cmpid=content_shirt_8965229628_gmc"
+            },
+            {
+                "start_time": "00:23:56",
+                "end_time": "00:25:59",
+                "loc_x1": 0.040625,
+                "loc_y1": 0.12222222222222222,
+                "loc_x2": 0.6390625,
+                "loc_y2": 0.8777777777777778,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005417_2.png",
+                "product_link": "https://www.solidstore.com/en-en/vyr-ochre-marl-vintage-t-shirt-40550510-400217"
+            },
+            {
+                "start_time": "00:23:56",
+                "end_time": "00:25:59",
+                "loc_x1": 0.1109375,
+                "loc_y1": 0.14722222222222223,
+                "loc_x2": 0.453125,
+                "loc_y2": 0.875,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005815_2.png",
+                "product_link": "https://www.mytheresa.com/kr/en/women/marant-etoile-kiledia-cotton-blouse-white-p00806319"
+            },
+            {
+                "start_time": "00:26:00",
+                "end_time": "00:27:07",
+                "loc_x1": 0.4265625,
+                "loc_y1": 0.12222222222222222,
+                "loc_x2": 0.9984375,
+                "loc_y2": 0.8833333333333333,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00007239_1.png",
+                "product_link": ""
+            }
+        ]
+    }
+]
