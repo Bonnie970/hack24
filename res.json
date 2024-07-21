@@ -4,6 +4,16 @@
         "fragments": [
             {
                 "start_time": "00:21:48",
+                "end_time": "00:22:25",
+                "loc_x1": 0.275,
+                "loc_y1": 0.175,
+                "loc_x2": 0.6296875,
+                "loc_y2": 0.8777777777777778,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00001049_0.png",
+                "auxiliary_picture_link": "https://static.wixstatic.com/media/26eece_3c9625432d534883b004d9944cbd832e~mv2.jpg/v1/fill/w_582,h_689,al_c,q_85,usm_0.66_1.00_0.01/26eece_3c9625432d534883b004d9944cbd832e~mv2.jpg"
+            },
+            {
+                "start_time": "00:22:26",
                 "end_time": "00:23:40",
                 "loc_x1": 0.3625,
                 "loc_y1": 0.225,
@@ -13,36 +23,27 @@
                 "auxiliary_picture_link": "https://u-mercari-images.mercdn.net/photos/m10325677862_1.jpg"
             },
             {
-                "start_time": "00:21:48",
-                "end_time": "00:23:40",
-                "loc_x1": 0.275,
-                "loc_y1": 0.175,
-                "loc_x2": 0.6296875,
-                "loc_y2": 0.8777777777777778,
-                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00001049_0.png",
-                "auxiliary_picture_link": "https://static.wixstatic.com/media/26eece_3c9625432d534883b004d9944cbd832e~mv2.jpg/v1/fill/w_582,h_689,al_c,q_85,usm_0.66_1.00_0.01/26eece_3c9625432d534883b004d9944cbd832e~mv2.jpg"
-            },
-            {
-                "start_time": "00:23:40",
+                "start_time": "00:23:41",
                 "end_time": "00:23:55",
                 "loc_x1": 0.2578125,
                 "loc_y1": 0.125,
                 "loc_x2": 0.8640625,
                 "loc_y2": 0.7722222222222223,
                 "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00002745_0.png",
-                "auxiliary_picture_link": "https://m.media-amazon.com/images/I/81unDRivoPL._AC_SY695_.jpg"},
-            {
-                "start_time": "00:23:56",
-                "end_time": "00:25:59",
-                "loc_x1": 0.040625,
-                "loc_y1": 0.12222222222222222,
-                "loc_x2": 0.6390625,
-                "loc_y2": 0.8777777777777778,
-                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005417_2.png",
-                "auxiliary_picture_link": "https://assets.ajio.com/medias/sys_master/root/20230930/t7lw/65172539afa4cf41f5181ec7/-473Wx593H-466650368-blue-MODEL.jpg"
+                "auxiliary_picture_link": "https://m.media-amazon.com/images/I/81unDRivoPL._AC_SY695_.jpg"
             },
             {
                 "start_time": "00:23:56",
+                "end_time": "00:24:48",
+                "loc_x1": 0.1109375,
+                "loc_y1": 0.14722222222222223,
+                "loc_x2": 0.453125,
+                "loc_y2": 0.875,
+                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005815_2.png",
+                "auxiliary_picture_link": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/82/P00806319_d2.jpg"
+            },
+            {
+                "start_time": "00:24:49",
                 "end_time": "00:25:59",
                 "loc_x1": 0.040625,
                 "loc_y1": 0.12222222222222222,
@@ -50,16 +51,6 @@
                 "loc_y2": 0.8777777777777778,
                 "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005417_2.png",
                 "auxiliary_picture_link": "https://media.solidstore.com/images/vyr-ochre-marl-vintage-t-shirt.jpg?i=AECm1yXQ2Qg/683949&mw=2600"
-            },
-            {
-                "start_time": "00:23:56",
-                "end_time": "00:25:59",
-                "loc_x1": 0.1109375,
-                "loc_y1": 0.14722222222222223,
-                "loc_x2": 0.453125,
-                "loc_y2": 0.875,
-                "picture_link": "https://github.com/Bonnie970/hack24/blob/master/00005815_2.png",
-                "auxiliary_picture_link": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/82/P00806319_d2.jpg"
             },
             {
                 "start_time": "00:26:00",
